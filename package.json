@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "cpx \"packages/**/*\" node_modules && vite --force"
+  },
+  "devDependencies": {
+    "cpx2": "^3.0.0",
+    "vite": "^2.0.5"
+  }
+}
