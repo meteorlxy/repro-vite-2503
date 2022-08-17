@@ -1,3 +1,3 @@
-import fooSymbol from 'foo/alias'
+import fooSymbol from 'foo/foo'
 
 export default fooSymbol

@@ -1,7 +1,7 @@
 // does not work
 import fooSymbol from '../node_modules/foo'
 import barSymbol from '../node_modules/bar'
-import bazSymbol from 'baz'
+import bazSymbol from '../node_modules/baz'
 
 // works
 // import fooSymbol from 'foo'
