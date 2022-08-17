@@ -9,5 +9,5 @@ npm run dev
 
 Check the console:
 
-- Expected: `true`
-- Actual: `false`
+- Expected: `true` & `true`
+- Actual: `false` & `false`
